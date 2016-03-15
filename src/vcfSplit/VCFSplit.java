@@ -19,7 +19,6 @@ public class VCFSplit {
 		// Variables
 		File source_file;
 		File destination_folder;	
-
 	}
 
 }
