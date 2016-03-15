@@ -20,8 +20,6 @@ public class VCFSplit {
 		File source_file;
 		File destination_folder;
 
-		BufferedReader input = new BufferedReader(new InputStreamReader(
-				System.in));
 
 		
 	}
