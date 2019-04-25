@@ -2,6 +2,6 @@ package vcfSplit;
 
 class vcfsplit {
 	public static int main() {
-		return 1;
+		return 0;
 	}
 }
